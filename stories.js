@@ -13,6 +13,13 @@ const stories = [
         description: "About a wallaper that is yellow.",
         file: "stories/the-yellow-wallpaper.txt"
     },
+    {
+        id: "walter-mitty",
+        title: "The Secret Life of Walter Mitty",
+        author: "James Thurber ",
+        description: "About a secret life.",
+        file: "stories/walter-mitty.txt"
+    },
 ];
 
 
